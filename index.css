@@ -1,0 +1,49 @@
+body{
+  background:#ff00ff;
+}
+.flex-parent{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.profile
+{
+  width:30%;
+  height:auto;
+  background: #fff;
+  margin:2%;
+  padding:1%;
+  border:2px solid #000;
+  border-radius:20px;
+}
+.content
+{
+  width:70%;
+  height:auto;
+  background: #fff;
+  margin:2%;
+  padding:1%;
+  border:2px solid #000;
+  border-radius:20px;
+}
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border:2px solid #ddd;
+  border-radius: 50%
+}
+h1{
+  text-align: center;
+  text-transform: capitalize;
+  color:green;
+}
+h1,#roll
+{
+  text-align:center;
+  text-transform: capitalize;
+  color:orange;
+}
+a{
+  text-decoration: none;
+}
