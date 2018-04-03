@@ -1,0 +1,22 @@
+{
+"career":{
+             "info": "to become an entrepreneur."
+         },
+  "education" :[
+  {
+    "degree" :"ssc",
+    "school" :"keshavareddy",
+    "data" :["2013","80%"]
+  },
+  {
+    "degree" :"inter",
+    "school" :"srichaitanya",
+    "data" :["2015","80%"]
+  },
+  {
+    "degree" :"btech",
+    "school" :"svec",
+    "data" :["2019","80%"]
+  },
+]
+}
