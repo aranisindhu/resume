@@ -17,6 +17,28 @@
     "degree" :"btech",
     "school" :"svec",
     "data" :["2019","80%"]
-  },
+  }
+],
+"skills":[
+    {
+    "name":"operating system",
+    "info":["windows","linux","ubuntu","fedora"]
+    },
+    {
+      "name":"languages",
+      "info":["c","java","phython","c++"]
+    },
+    {
+        "name":"databases",
+        "info":["oracle","mysql","db2","sql server"]
+    },
+    {
+          "name":"web technologies",
+          "info":["html","xml","css","javscript"]
+    },
+    {
+      "name":"frameworks",
+      "info":["bootstraps","angular js","react.js","note.js"]
+    }
 ]
 }

@@ -47,6 +47,19 @@ h1,#roll
 a{
   text-decoration: none;
 }
+table{
+  width:95%;
+}
+td{
+  padding:1%;
+}
+tr:nth-child(even){
+  background:red;
+}
+tr:nth-child(odd){
+  background:brown;
+}
+
 @media only screen and (min-width:320px) and (max-width:480px)
 {.flex-parent{
   display:flex;
